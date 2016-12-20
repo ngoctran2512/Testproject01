@@ -1,0 +1,17 @@
+en:
+  ecommerce: "ECOMMERCE"
+  titles: "Home"
+  head: "Welcome to Framgia ECOMMERCE System"
+  title: "ECOMMERCE"
+  home: "Home"
+  sign_up: "Sign up"
+  login: "Login"
+
+  static_pages:
+    home:
+      ct: "This is the static home page of Framgia ECOMMERCE System."
+      welcome: Welcome to ECOMMERCE
+  layouts:
+    footer:
+      ft: "Framgia ECOMMERCE by Ngoc"
+      year: "2016"
